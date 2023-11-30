@@ -8,6 +8,7 @@ export default function Card() {
         src="https://i.pinimg.com/originals/ba/94/64/ba9464145eba8762f6286a3c8387c951.jpg"
         alt="StarWarsPOst"
       />
+
       <div>
         <h1>Pôster: Star Wars (1977)</h1>
         <p className={styles.text}>
